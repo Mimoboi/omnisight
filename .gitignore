@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/omnisight_results.csv
+artifacts/
